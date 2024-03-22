@@ -1,0 +1,52 @@
+
+  .admin {
+    margin-top: 600px;
+    position: absolute;
+    background: rgb(236, 233, 233);
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    left: 700px;
+    top: 100px;
+    color: black;
+  }
+  .admin {
+    z-index: 1;
+    margin-top: 200px;
+    position: absolute;
+    background: rgb(236, 233, 233);
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    left: 700px;
+    top: 100px;
+    color: black;
+}
+   .admin h1 {
+    position: absolute;
+    right: 2px;
+    cursor: pointer;
+    font-size: 36px;
+    bottom: 10pc;
+  }
+  .admin--nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+   .admin--nav input {
+    padding: 10px 60px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+   
+  .admin--nav button {
+    padding: 8px 50px;
+    background: #010049;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+ 

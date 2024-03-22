@@ -1,0 +1,74 @@
+.title {
+  width: 1150px;
+  height:800px;
+  background: rgb(226, 224, 224);
+  margin-left: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+}
+
+#product {
+  background: whitesmoke;
+}
+.input22 {
+  display: flex;
+  gap: 5px;
+}
+.dsa {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.product11 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.product input {
+  /* width: 349px;
+  height: 349px; */
+  padding: 200px 100px;
+  top: 110px;
+  left: 55px;
+  background: #eeeded;
+}
+.input1 {
+  /* width: 321.35px;
+height: 60px; */
+  padding: 25px 70px;
+  top: 105px;
+  left: 473px;
+  border-radius: 3px;
+  border: solid 3px black;
+}
+.input2 {
+  /* width: 163px;
+    height: 60px; */
+  padding: 25px 20px;
+  top: 187px;
+  left: 471px;
+  border-radius: 3px;
+  border: solid 3px black;
+}
+.input3 {
+  padding: 25px 20px;
+  top: 105px;
+  left: 473px;
+  border-radius: 3px;
+  border: solid 3px black;
+}
+.dsa input {
+  display: flex;
+ 
+  padding: 120px 10px;
+  border-radius: 3px;
+  border:  solid 3px black;
+}
+.dsa button {
+  padding: 10px 50px;
+  color: black;
+  border: solid 3px black;
+
+}
